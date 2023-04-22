@@ -7,7 +7,9 @@ I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about 
  * 😄 I'm observant, amiable, and passionate.
  
  ## Programming languages 
- Python, HTML, CSS, C++ https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white, SQL
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+, HTML, CSS, C++, SQL, 
+
 
 ## Tools & Technologies :star:
 
