@@ -11,6 +11,13 @@ I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about 
 ## Tools & Technologies :star:
 
 IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
+
+## Github stats 📈
+
+[![Sophie’s github stats](https://github-readme-stats.vercel.app/api?username=Sophie77shalom)](https://github.com/Sophie77shalom)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophie77shalom&layout=compact)](https://github.com/Sophie77shalom)
+
  
 ## Contact Me
 
