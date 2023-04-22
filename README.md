@@ -24,4 +24,4 @@ IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, My
  
 ## Contact Me
 
-You can reach me at [Sophyjeptoo999@gmail.com] or connect with me on [https://www.linkedin.com/in/sophie-jeptoo-0435bb240/].https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+You can reach me at ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)Sophyjeptoo999@gmail.com or connect with me on ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/sophie-jeptoo-0435bb240/]
