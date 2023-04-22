@@ -13,7 +13,8 @@ I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about 
 
 ## Tools & Technologies :star:
 
-IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
+![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![ARDUINO IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+IoT,npm, pip, Pytest,Docker,  
 
 ## Github stats 📈
 
