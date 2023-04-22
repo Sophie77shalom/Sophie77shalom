@@ -1,13 +1,16 @@
-# Hi there,:wave: I'm Sophie Jeptoo! :hugs:
+# Hi there,:wave: I'm Sophie! :hugs:
 
 I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
  * 🔭 I’m currently a student at ALX Software Engineering.
  * 🌼 Looking for remote Software and IoT opportunities.
  * 😄 I'm observant, amiable, and passionate.
+ 
+ ## Programming languages 
+ Python, HTML, CSS, C++, SQL
 
 ## Tools & Technologies :star:
 
-Python, HTML, CSS, IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
+IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
  
 ## Contact Me
 
