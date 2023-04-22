@@ -1,7 +1,7 @@
  
 # Hi there,:wave: I'm Sophie! :hugs:
 
-I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
+I'm a Computer Scientist and a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
  * 🔭 I’m currently a student at ALX Software Engineering.
  * 🌼 Looking for remote Software and IoT opportunities.
  * 😄 I'm observant, amiable, and passionate.
