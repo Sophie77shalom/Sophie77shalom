@@ -1,12 +1,10 @@
-# Sophie-readme
-# Hi there, I'm [Sophie]! 👋
+# Hi there, I'm Sophie Jeptoo! 👋
 
-I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about [using data to solve real-world problems and generate insights].
+I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
 
 ## Skills
 
-- Programming languages: [List of Programming Languages you know]
-- Tools & Technologies: [List of Tools & Technologies you are comfortable with]
+- Tools & Technologies: Python, HTML, CSS, IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
 - Soft Skills: [List of Soft Skills you possess]
 
 ## Contact Me
