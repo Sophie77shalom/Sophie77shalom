@@ -1,7 +1,7 @@
 # Sophie-readme
 # Hi there, I'm [Sophie]! 👋
 
-I'm a Python Developer, currently based in [Your City or Country]. I'm passionate about [Your Interests or Hobbies].
+I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about [using data to solve real-world problems and generate insights].
 
 ## Skills
 
