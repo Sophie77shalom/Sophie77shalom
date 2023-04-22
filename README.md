@@ -7,6 +7,7 @@ I'm a Python Developer, currently based in Nairobi, Kenya. I'm passionate about 
 
 ## Tools & Technologies :star:
 
+<a href="https://www.python.org/"><img src="logos/technology-logo.png" alt="Technology Logo"></a>
 Python, HTML, CSS, IoT, Visual studio, Git, npm, pip, Pytest, Amazon Web Services (AWS), Docker, MySQL, PostgreSQL
  
 ## Contact Me
