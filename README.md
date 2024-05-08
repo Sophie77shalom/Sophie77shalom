@@ -1,10 +1,10 @@
  
-# Hi there,:wave: I'm Sophie! :hugs:
+# Hi there,:smiling_face_with_three_hearts: I'm Sophie! :hugs:
 
 I'm a Computer Scientist and a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
- * 🔭 I’m currently a student at ALX Software Engineering.
+ * 🔭 Graduated from ALX Software Engineering.
  * 🌼 Looking for remote Software and IoT opportunities.
- * 📚 Currently working on Cybersecurity
+ * 📚 Currently working on Python development with Django.
  * 😄 I'm observant, amiable, and passionate.
  
  ## Programming languages :computer:
