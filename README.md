@@ -1,5 +1,5 @@
  
-# Hi there,:smiling_face_with_three_hearts: I'm Sophie! :hugs:
+# Hi there, ':smiling_face_with_three_hearts:' I'm Sophie! ':hugs:'
 
 I'm a Computer Scientist and a Python Developer, currently based in Nairobi, Kenya. I'm passionate about using data to solve real-world problems and generate insights.
  * 🔭 Graduated from ALX Software Engineering.
