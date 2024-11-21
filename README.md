@@ -1,7 +1,7 @@
  
 # Hi there,🥰 I'm Sophie!🤗
 I'm a Computer Scientist and a Machine Learning Engineer. I'm passionate about using data to solve real-world problems and generate insights.
- * 🌼 Looking for remote Software/ AI & Machine Learning Engineering opportunities.
+ * 🌼 Looking for remote Data Science / AI & Machine Learning Engineering opportunities.
  * 📚 Currently working on AI & Machine Learning Engineering
  * 😄 I'm observant, amiable, and passionate.
  
