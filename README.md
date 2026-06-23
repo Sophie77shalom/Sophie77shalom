@@ -1,6 +1,5 @@
  # Hi, I'm Sophy 👋
 🎀 Bsc. Computer Science @ Kirinyaga University
-📍 Nairobi, Kenya
 
 I'm passionate about turning data into actionable insights and building AI solutions that solve real-world problems.
 I enjoy working with data, developing machine learning models, and creating intelligent systems that support better decision-making.
