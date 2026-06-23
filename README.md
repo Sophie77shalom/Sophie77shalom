@@ -43,13 +43,6 @@ Looking for remote AI & Machine Learning Engineering / Data Analytics opportunit
 - Grow as an AI/ML Engineer and Data Scientist
 - Contribute to innovative AI products
 - Continuously learn and stay updated with emerging technologies
-
-## 📈 Github stats 
-
-[![Sophie’s github stats](https://github-readme-stats.vercel.app/api?username=Sophie77shalom)](https://github.com/Sophie77shalom)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophie77shalom&layout=compact)](https://github.com/Sophie77shalom)
-
  
 ## :telephone_receiver: Contact Me
 📫 Let's connect and collaborate on AI, Machine Learning, Data Science, and Analytics projects.
